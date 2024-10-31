@@ -2,7 +2,7 @@ import React from "react";
 import Section from "./Section";
 import { curve, heroBackground, robot } from "../assets";
 import Button from "./Button";
-import { heroIcons } from "../constants";
+import { heroIcons } from "../Constants";
 import { ScrollParallax } from "react-just-parallax";
 import { useRef } from "react";
 import Generating from "./Generating";

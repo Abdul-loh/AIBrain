@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { brainwave } from "../assets";
-import { navigation } from "../constants";
+import { navigation } from "../Constants";
 import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
 import { HamburgerMenu } from "./Design/Header";
