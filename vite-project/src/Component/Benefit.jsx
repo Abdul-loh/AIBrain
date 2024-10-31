@@ -1,6 +1,6 @@
 import React from "react";
 import Heading from "./Heading";
-import { benefits } from "../constants";
+import { benefits } from "../Constants";
 import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
